@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='qrzatca',  # Package name
-    version='0.1.2',  # Initial release version
+    version='0.1.3',  # Initial release version
     description='A Python library to generate ZATCA-compliant QR codes for Saudi Arabian e-invoices.',
     long_description=long_description,
     long_description_content_type='text/markdown',

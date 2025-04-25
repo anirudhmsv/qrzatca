@@ -1,16 +1,21 @@
 Metadata-Version: 2.1
 Name: qrzatca
-Version: 0.1.2
+Version: 0.1.3
 Summary: A Python library to generate ZATCA-compliant QR codes for Saudi Arabian e-invoices.
 Home-page: https://github.com/anirudhmsv/qrzatca.git
 Author: Anirudh msv
 Author-email: anirudhvadakkayil@gmail.com
 License: UNKNOWN
+Project-URL: Documentation, https://github.com/anirudhmsv/qrzatca
+Project-URL: Source, https://github.com/anirudhmsv/qrzatca
+Project-URL: Bug Tracker, https://github.com/anirudhmsv/qrzatca/issues
+Keywords: zatca,qr code,e-invoice,saudi arabia,vat,tax,compliance,zatca qr
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Office/Business :: Financial :: Accounting
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
