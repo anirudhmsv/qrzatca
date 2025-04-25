@@ -8,8 +8,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name='qrzatca',  # Package name
     version='0.1.0',  # Initial release version
-    description='A Python library for generating ZATCA-compliant QR codes.',
-    long_description=open('README.md').read(),
+    description='A Python library to generate ZATCA-compliant QR codes for Saudi Arabian e-invoices.',
+    long_description=long_description,
     long_description_content_type='text/markdown',
     author='Anirudh msv',
     author_email='anirudhvadakkayil@gmail.com',
@@ -23,6 +23,7 @@ setup(
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
+        "Topic :: Software Development :: Libraries",
     ],
     python_requires='>=3.6',
 )
