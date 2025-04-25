@@ -6,7 +6,7 @@ setup(
     description='A Python library for generating ZATCA-compliant QR codes.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author='Your Name',
+    author='Anirudh msv',
     author_email='anirudhvadakkayil@gmail.com',
     url='https://github.com/anirudhmsv/qrzatca.git',  # Your GitHub repo URL
     packages=find_packages(),
